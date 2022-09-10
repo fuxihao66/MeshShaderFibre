@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  D3D12MeshletRender.cpp
+  DXSample.cpp
+  Main.cpp
+  Model.cpp
+  SimpleCamera.cpp
+  Win32Application.cpp
+  Generating Code...
+  D3D12MeshletRender.vcxproj -> D:\MeshShaderFibre\D3D12MeshShaders\src\MeshletRender\bin\x64\Debug\D3D12MeshletRender.exe

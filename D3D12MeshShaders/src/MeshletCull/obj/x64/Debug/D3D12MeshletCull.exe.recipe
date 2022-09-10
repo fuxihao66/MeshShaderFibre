@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\MeshShaderFibre\D3D12MeshShaders\src\MeshletCull\bin\x64\Debug\D3D12MeshletCull.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\MeshShaderFibre\D3D12MeshShaders\src\MeshletCull\bin\x64\Debug\BoundingSphereMS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MeshShaderFibre\D3D12MeshShaders\src\MeshletCull\bin\x64\Debug\DebugDrawPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MeshShaderFibre\D3D12MeshShaders\src\MeshletCull\bin\x64\Debug\FrustumMS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MeshShaderFibre\D3D12MeshShaders\src\MeshletCull\bin\x64\Debug\MeshletAS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MeshShaderFibre\D3D12MeshShaders\src\MeshletCull\bin\x64\Debug\MeshletMS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MeshShaderFibre\D3D12MeshShaders\src\MeshletCull\bin\x64\Debug\MeshletPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\MeshShaderFibre\D3D12MeshShaders\src\MeshletCull\bin\x64\Debug\NormalConeMS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
